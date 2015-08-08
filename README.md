@@ -24,7 +24,8 @@
 
 
 ####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingManual(ver.1.0)(J).md)(付録)
-
+ 
+ 
 
 ####付録(Appendixフォルダ)
 ウェブサイトに必要な事項、ウェブサイト構築においてライセンスを付与する作業手順などについてのドキュメントがあります。  
