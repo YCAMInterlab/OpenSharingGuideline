@@ -1,4 +1,4 @@
-##オープン化のガイドラインについて
+##オープン化のガイドライン
 (Currently Japanese Only)
 
 これは、オープン化(= 成果を第三者が一定の範囲で利用できるよう公開すること)を効果的に実施するための原則・ガイドラインです。成果をオープン化することによって、より多くの人々がアクセスできるようになり(アクセシビリティ)、アレンジや波及を通じて深く接してもらう機会が増え(エンゲージメント)、プロジェクトの多様性が増えていく(ダイバーシティ)といった効果が期待できます*。これによって、プロジェクトが成長していきます。   
@@ -26,7 +26,7 @@
 ####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingManual(ver.1.0)(J).md)(付録)
  
  
-
+<!--
 ####付録(Appendixフォルダ)
 ウェブサイトに必要な事項、ウェブサイト構築においてライセンスを付与する作業手順などについてのドキュメントがあります。  
 ガイドラインに示された工程の具体的な内容を参照できます。
@@ -37,7 +37,7 @@
 ](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicenseライセンス付与のしかた:採用の理由.md)
     
 [YCAMサマースクールにおける同意書](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/YCAMサマースクールにおける同意書について.md)
-
+-->
   
 ##開発履歴
 
