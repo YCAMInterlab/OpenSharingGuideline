@@ -55,7 +55,7 @@
 ###関連情報
 このガイドラインを用いて、もしくはこのガイドラインの開発と並行して行ってきた[YCAM](http://www.ycam.jp)におけるオープン化の事例をまとめています。
 
-[Open_Project_Practice_in_YCAM](http://interlab.ycam.jp/projects/open-sharing)
+[YCAMにおけるオープン化の試み](http://interlab.ycam.jp/projects/open-sharing)
 
 
 
