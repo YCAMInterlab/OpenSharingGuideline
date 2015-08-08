@@ -20,10 +20,10 @@
 本ガイドラインは以下のファイルで構成されています。  
 
 
-####[オープン化のガイドライン]()(本体)
+####[オープン化のガイドライン](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(ver2.0)(J).md)(本体)
 
 
-####[オープン化のマニュアル]()(付録)
+####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingManual(ver.1.0)(J).md)(付録)
 
 
 ####付録(Appendixフォルダ)
