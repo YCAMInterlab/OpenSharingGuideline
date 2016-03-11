@@ -20,10 +20,10 @@
 本ガイドラインは以下のファイルで構成されています。  
 
 
-####[オープン化のガイドライン](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(ver2.0)(J).md)(本体)
+####[オープン化のガイドライン](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Guideline)(本体)
 
 
-####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingManual(ver.1.0)(J).md)(付録)
+####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Manual)(付録)
  
  
 <!--
@@ -48,11 +48,14 @@
 ・GRP Contracat Form ver.2.0に対応(付属するファイルとして公開)
 ・構成を変更(チェックリストと基本ガイドライン、要素別ガイドライン)
 
-2015.8(予定) オープン化のガイドライン Ver.2.0およびオープン化のマニュアルVer.1.0公開  
+2015.8 オープン化のガイドライン Ver.2.0(ガイドライン+マニュアル)(制作中)  
 以下の項目に対応  
 ・原則(Principles)ベースに変更  
 ・YCAMにおける実践で得た知見を反映   
 
+2016.3 YCAMInterLabへ移管  
+  
+  
 
 ###関連情報
 このガイドラインを用いて、もしくはこのガイドラインの開発と並行して行ってきた[YCAM](http://www.ycam.jp)におけるオープン化の事例をまとめています。
