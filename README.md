@@ -66,19 +66,18 @@
 
 ---
 
-<!--
+
 
 
 ##Licenses and Credits  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Guideline_for_Procedure_of_Open_Project (document except citation) </span><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yosukesakai/Guideline_for_Procedure_of_Open_Project" property="cc:attributionName" rel="cc:attributionURL">Produced by yosukesakai<br /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution - ShareAlike 3.0 Unported License.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">YCAM Interlab</span> 作『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenSharingGuideline</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 
 
 ##Disclaimer
-```
-yosukesakai makes no guarantees whatsoever related to this text.
+
+Yamaguchi Center for Arts and Media [YCAM] no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
 the usage of this text (including any kind of use such as browsing, contribution, or external re-use; 
 the same shall apply hereinafter).
@@ -87,12 +86,9 @@ yosukesakai takes no responsibility regarding eventual damage resulting from you
 yosukesakai does not guarantee that your use of this text is legitimate according to applicable laws.
 We don't guarantee in any way the legitimacy, accuracy and safety of all information provided as contents.
 We make no guarantees regarding external website linked to from this site.
-This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 3.0 Unported License, 
+This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 4.0 Unported License, 
 however it does not permit forms of reuse that violate laws or other regulations.  
 The use of images accompanying the text may be based on license agreements separate from the respective text licenses.  
 yosukesakai may discontinue the publication of all or parts of this text and all other contents without prior notice.
-```
-
--->
 
 
