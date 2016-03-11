@@ -20,24 +20,23 @@
 本ガイドラインは以下のファイルで構成されています。  
 
 
-####[オープン化のガイドライン](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Guideline)(本体)
+####[オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Guideline.md)(本体)
 
 
-####[オープン化のマニュアル](https://github.com/yosukesakai/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Manual)(付録)
+####[オープン化のマニュアル](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Manual.md)  
  
  
-<!--
 ####付録(Appendixフォルダ)
 ウェブサイトに必要な事項、ウェブサイト構築においてライセンスを付与する作業手順などについてのドキュメントがあります。  
 ガイドラインに示された工程の具体的な内容を参照できます。
 
-[ApacheLicense2.0 ライセンス付与のしかた](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/ApacheLicense2.0ライセンス付与のしかた:採用の理由.md)
+[ApacheLicense2.0 ライセンス付与のしかた](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/Appendix/ApacheLicense2.0ライセンス付与のしかた:採用の理由.md)
 
 [CreativeCommonsLicense ライセンス付与のしかた
-](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicenseライセンス付与のしかた:採用の理由.md)
+](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/Appendix/CCLicenseライセンス付与のしかた:採用の理由.md)
     
-[YCAMサマースクールにおける同意書](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/YCAMサマースクールにおける同意書について.md)
--->
+[YCAMサマースクールにおける同意書](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/Appendix/YCAMサマースクールにおける同意書について.md)
+
   
 ##開発履歴
 
