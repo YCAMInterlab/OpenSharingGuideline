@@ -53,6 +53,7 @@
 ・YCAMにおける実践で得た知見を反映   
 
 2016.3 YCAMInterLabへ移管  
+[yosuke sakai](https://github.com/yosukesakai)から移管    
 移管に合わせ、ver.1をmiscへ移動    
   
 
@@ -81,13 +82,13 @@ The persons involved in the creation/operation of this website (including other 
 the usage of this text (including any kind of use such as browsing, contribution, or external re-use; 
 the same shall apply hereinafter).
 When using this text, you are required to take personal responsibility. 
-yosukesakai takes no responsibility regarding eventual damage resulting from your use of this text.
-yosukesakai does not guarantee that your use of this text is legitimate according to applicable laws.
+Yamaguchi Center for Arts and Media [YCAM] takes no responsibility regarding eventual damage resulting from your use of this text.
+Yamaguchi Center for Arts and Media [YCAM] does not guarantee that your use of this text is legitimate according to applicable laws.
 We don't guarantee in any way the legitimacy, accuracy and safety of all information provided as contents.
 We make no guarantees regarding external website linked to from this site.
 This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 4.0 Unported License, 
 however it does not permit forms of reuse that violate laws or other regulations.  
 The use of images accompanying the text may be based on license agreements separate from the respective text licenses.  
-yosukesakai may discontinue the publication of all or parts of this text and all other contents without prior notice.
+Yamaguchi Center for Arts and Media [YCAM] may discontinue the publication of all or parts of this text and all other contents without prior notice.
 
 
