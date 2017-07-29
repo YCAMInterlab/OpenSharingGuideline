@@ -1,7 +1,7 @@
 ---
 
 
-#Guideline for Procedure of Open Project
+# Guideline for Procedure of Open Project
 
 
 
@@ -9,26 +9,26 @@
 
 
 
-##Project Outline
+## Project Outline
 
 このドキュメントは、プロジェクトの成果をオープン化する際の手続等を示すガイドラインです。オープン化についての調査、研究の過程で得た知見のアーカイブでもあります。
 
 
-##Composition
+## Composition
 
-######Main Document
+###### Main Document
 オープン化を伴うプロジェクトを進行するための、必要事項、判断基準、注意事項を示しています。
 
-######Appendix
+###### Appendix
 ウェブサイトに必要な事項、ウェブサイト構築においてライセンスを付与する作業手順などについてのドキュメントがあります。  
 Main Documentに示された工程の具体的な内容を参照できます。
 
-######OpenOrojectPractice
+###### OpenOrojectPractice
 これまでのYCAMにおけるオープン化の事例を時系列でまとめたドキュメントがあります。  
 先行事例として参照、比較できます。
 
 
-###Main Document (Pre-Production, Production, Post-Production)
+### Main Document (Pre-Production, Production, Post-Production)
 
 研究•開発プロセスの時期を大きく3つに分けて、このガイドラインもそれぞれにあわせ、3章で構成されています。
 
@@ -37,26 +37,26 @@ Main Documentに示された工程の具体的な内容を参照できます。
 しかし、これは手続の順序を示すものでもあり、前後関係を把握することは、無理のないプロジェクト進行に繋がります。
 たとえば、ウェブサイト構築に必要な費用や工期を、企画書に記載した方が作業を進めやすいことなどを理解できるでしょう。
 
-######1.Pre-Production
+###### 1.Pre-Production
 
 企画立案など
 
 プロジェクトの主たる制作作業の開始前にあたる時期です
 
-######2.Produciton
+###### 2.Produciton
 
 制作など
  
 プロジェクトの主たる制作(研究開発)作業を行う時期です
 
-######3.Post-Produciton
+###### 3.Post-Produciton
 
 ウェブサイト構築など
 
 プロジェクトの主たる制作作業の終了後にあたる時期です
 
 
-###Appendix
+### Appendix
 Main Documentに示された工程の具体的な内容を記述しています。
 
 
@@ -67,39 +67,39 @@ Main Documentに示された工程の具体的な内容を記述しています�
 [YCAMサマースクールにおける同意書](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/YCAMサマースクールにおける同意書について.md)
 
 
-###Open Project Practice in YCAM
+### Open Project Practice in YCAM
 これまでのYCAMにおけるオープン化の事例をまとめています。
 
 [Open_Project_Practice_in_YCAM](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/wiki/Open-Project-Practice-in-YCAM)
 
 ---   
-##Reference
+## Reference
 
 
-###Guide、Commentary
+### Guide、Commentary
 
 
-######フリーカルチャーをつくるためのガイドブック
+###### フリーカルチャーをつくるためのガイドブック
 
-######オープンソースソフトウェアの育て方
+###### オープンソースソフトウェアの育て方
 http://producingoss.com/ja/
 
 
 
 
 
-###Project
+### Project
 
-######open source project in London
+###### open source project in London
 
 
 
-###organization
+### organization
 
-######YCAM
+###### YCAM
 http://www.ycam.jp
 
-######EyeBeam
+###### EyeBeam
 http://www.eyebeam.org
 
 
@@ -109,14 +109,14 @@ http://www.eyebeam.org
 <!--
 
 
-##Licenses and Credits  
+## Licenses and Credits  
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> 
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Guideline_for_Procedure_of_Open_Project (document except citation) </span><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yosukesakai/Guideline_for_Procedure_of_Open_Project" property="cc:attributionName" rel="cc:attributionURL">Produced by yosukesakai<br /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution - ShareAlike 3.0 Unported License.<br />
 
 
 
-##Disclaimer
+## Disclaimer
 ```
 yosukesakai makes no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
