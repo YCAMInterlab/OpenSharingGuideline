@@ -1,4 +1,4 @@
-##オープン化のガイドライン
+## オープン化のガイドライン
 (Currently Japanese Only)
 
 これは、オープン化(= 成果を第三者が一定の範囲で利用できるよう公開すること)を効果的に実施するための原則・ガイドラインです。成果をオープン化することによって、より多くの人々がアクセスできるようになり(アクセシビリティ)、アレンジや波及を通じて深く接してもらう機会が増え(エンゲージメント)、プロジェクトの多様性が増えていく(ダイバーシティ)といった効果が期待できます*。これによって、プロジェクトが成長していきます。   
@@ -22,13 +22,13 @@
 本ガイドラインは以下のファイルで構成されています。  
 
 
-####[オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Guideline.md)(本体)
+#### [オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Guideline.md)(本体)
 
 
-####[オープン化のマニュアル](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Manual.md)  
+#### [オープン化のマニュアル](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/OpenSharingGuideline(J)(ver2.0)Manual.md)  
  
  
-####付録(Appendixフォルダ)
+#### 付録(Appendixフォルダ)
 ウェブサイトに必要な事項、ウェブサイト構築においてライセンスを付与する作業手順などについてのドキュメントがあります。  
 ガイドラインに示された工程の具体的な内容を参照できます。
 
@@ -40,7 +40,7 @@
 [YCAMサマースクールにおける同意書](https://github.com/YCAMInterlab/OpenSharingGuideline/blob/master/Appendix/YCAMサマースクールにおける同意書について.md)
 
   
-##開発履歴
+## 開発履歴
 
 2013.9 オープン化のガイドライン Ver.1.0公開 
 
@@ -59,7 +59,7 @@
 移管に合わせ、ver.1をmiscへ移動    
   
 
-###関連情報
+### 関連情報
 このガイドラインを用いて、もしくはこのガイドラインの開発と並行して行ってきた[YCAM](http://www.ycam.jp)におけるオープン化の事例をまとめています。
 
 [YCAMにおけるオープン化の試み](http://interlab.ycam.jp/projects/open-sharing)
@@ -71,13 +71,13 @@
 
 
 
-##Licenses and Credits  
+## Licenses and Credits  
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">YCAM Interlab</span> 作『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenSharingGuideline</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 
 
-##Disclaimer
+## Disclaimer
 
 Yamaguchi Center for Arts and Media [YCAM] no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
