@@ -362,8 +362,8 @@ GitHubなど、そもそも成果を公開しながら開発する環境を利�
 
 >ライセンス|制作・実装方法
 ---- | -----------
-ApacheLicense2.0|参照:[Appendix/ApacheLicense2.0ライセンス付与のしかた/採用の理由](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/ApacheLicense2.0ライセンス付与のしかた:採用の理由.md)
-CCライセンス、CC0|参照:[Appendix/CCLicenseライセンス付与のしかた/採用の理由](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicenseライセンス付与のしかた:採用の理由.md)
+ApacheLicense2.0|参照:[Appendix/ApacheLicense2.0ライセンス付与のしかた/採用の理由](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/ApacheLicense2.0ライセンス付与のしかた:採用の理由.md)  
+CCライセンス、CC0|参照:[Appendix/CCLicenseライセンス付与のしかた/採用の理由](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicenseライセンス付与のしかた:採用の理由.md)  
 
 
 
