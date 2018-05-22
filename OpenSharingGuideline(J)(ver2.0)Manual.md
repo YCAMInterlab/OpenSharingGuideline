@@ -139,9 +139,9 @@
 
 |成果の種別|ライセンス|採用理由|
 | ------------- |-------------| -----|
-|ソフトウェア・コード|Apache License 2.0(Guest Research Project vol。2より)|自由度、特許関連条項|
+|ソフトウェア・コード|Apache License 2.0(Guest Research Project vol.2より)|自由度、特許関連条項|
 |ハードウェア設計情報|CC BY-SA(図面等)(OSHW Definition準拠) (Reactor for Awareness in Motion (RAM)より)|自由度、マネタイズ可能
-|コンテント(ドキュメントを含む)、その他の著作物|CC BY-SA(EyeWriter2。0のつくりかたより)|自由度、マネタイズ可能  
+|コンテント(ドキュメントを含む)、その他の著作物|CC BY-SA(EyeWriter2.0のつくりかたより)|自由度、マネタイズ可能  
 |著作物に当たらないデータ|CC0 (厳密にはライセンスではなくツールです)|自由度
 
 これらのライセンスを選定するに至った経緯については、Appendixを参照してください。  
